@@ -4,7 +4,7 @@
 
 - My current project is and my hobby is my Discord bot [Yumiko](https://github.com/nai98x/Yumiko)
 
-- I specialize in front-end with C#, but I also used Node.js, Python, Java, C++, C and PHP.
+- I specialize in back-end with C#, but I also used Node.js, Python, Java, C++, C and PHP.
 
 - In backend, I have experience with Angular and Ionic. 
 
