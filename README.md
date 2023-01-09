@@ -6,6 +6,6 @@
 
 - I specialize in back-end with C#, but I also used Node.js, Python, Java, C++, C and PHP.
 
-- In backend, I have experience with Angular and Ionic. 
+- With frontend, I have experience with Angular and Ionic. 
 
 - Looking for learn a bit of everything.
